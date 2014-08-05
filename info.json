@@ -1,0 +1,18 @@
+{
+  "name": "rapierwar",
+  "fullname": "Rapier War",
+  "version": "0.01.00",
+  "author": "chrispytoes",
+  "authorimage": null,
+  "thumbnail": "",
+  "spreadimage": "",
+  "spreadvideo": null,
+  "website": "http://steampowered.com",
+  "subtitle": "A cool rapierwar game mode.",
+  "description": "A cool rapierwar game mode.",
+  "features": ["Fun rapierwar game mode!"],
+  "playable": true,
+  "isPublic": true,
+  "bundle": "rapierwar.zip",
+  "overrideMap": "rapierwar"
+}

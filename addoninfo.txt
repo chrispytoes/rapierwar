@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"addonSteamAppID"	"816"
+	"addontitle"	"Barebones"
+	"addonversion"	"0.1"
+	"addontagline"	"Barebones"
+	"addonauthor"	"BMD"
+}
